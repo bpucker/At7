@@ -1,6 +1,6 @@
 # At7 genome sequencing and analysis
 
-Python scripts related to the At7 (Arabidopsis thaliana suspension cell culture) sequencing project. Some scripts are committed to customized analysis and are just included for documentation purposes. Only the usage of scripts re-useable beyond the At7 data set analyzed here will be described below.
+Python scripts related to the At7 (Arabidopsis thaliana suspension cell culture) sequencing project. Some scripts are committed to customized analysis and are just included for documentation purposes. Only the usage of scripts re-useable beyond the At7 data set analyzed here will be described below. All scrips were written in Python 2.7.x and some scripts require matplotlib for generation of figures.
 
 
 python SnpEff_result_parser.py \
